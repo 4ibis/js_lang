@@ -1,1 +1,1 @@
-# js_lang
+# Examples of JavaScript
